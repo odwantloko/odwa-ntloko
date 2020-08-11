@@ -1,14 +1,15 @@
 {
   "main": {
     "name":"Odwa Nolusiba Ntloko",
-    "description":"I'm a 23 year-old Software engineer, and this site tells you more about me.",
+    "description":"I'm a 23 year-old Software engineer, and this site tells you a biiiit more about me ... :) ",
     "image":"profilepic.png",
-    "bio":"I’m a software engineer who loves building mobile and web applications. I enjoy working with the full technology stack, from front to backend and everything inbetween. More especially, I enjoy seeing myself do magic with code and the reactions of the people I'm working with when they see my work. Most importantly, I'm always eager to learn new languages/frameworks. Overall I’m passionate about technology and excited about the future.",
+    "bio":"I’m a software engineer who loves building mobile and web applications. I enjoy working with the full technology stack, from front to backend and everything inbetween. More especially, I enjoy seeing myself do magic with code and the reactions of the people I'm working with when they see my work. Most importantly, I'm always eager to learn new languages/frameworks.",
+    "hobbies":"I'm originally from Cape Town. One of my favourite things to do in the world is going to the beach and being surrounded by water (although I can't yet swim). I also recently discovered wine-tasting, just before COVID-19 hit, so I've only done it once but I could see it becoming a hobbie given the opportunity. I enjoy hiking occassionally and love-love-love attending concerts/live performances. I also enjoy Travelling, although I haven't YET seen much of the world. Overall I’m passionate about technology and excited about the future.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ntlokodwa@gmail.com",
-    "phone": "0723654087",
+    "phone": "",
     "github":"https://github.com/odwantloko",
-    "project":"#TODO",
+    "project":"https://github.com/odwantloko/odwa-ntloko.git",
     "address":{
       "street":"Gauteng Area",
       "city":"",
@@ -48,7 +49,7 @@
         "degree":"BSc Computer Science and Computer Engineering",
         "graduated":"2015-2018",
         "experience":"My first year at varsity was very challenging. In fact, I even had 2 \"first years\". I spent most of my 1st first year being overwhelmed by the environment, the workload and by the fact that it felt like I was the only one in my class that hadn't done any programming in high school. At some point, I even felt that maybe Tech wasn't for me and that the university had made a mistake accepting me to study Computer Science. However, towards the end of the year, the more I met people who felt the same way I did, the more 'normal' I felt, and the more I was able to overcome my anxieties and perform better in my academics. By the end of the following year, I obtained a distinction in one of my most challenging subjects and even became a tutor for it. ",
-        "e1": "\nI then joined the UCT Developer Society and the Women in Computer Science Society. Where I would meet-up with other aspiring developers and talk about the future. I also become a Computer Science Mentor to try and help first years adjust to university as smoothly as possible",
+        "e1": "\nI then joined the UCT Developer Society and the Women in Computer Science Society. Where I would meet-up with other aspiring developers and talk about the future. I also became a Computer Science Mentor to try and help first years adjust to university as smoothly as possible",
         "e2":"Overall, I had a lot of ups and downs at university, but it was one of the best experiences and learning curves in my life.",
         "description":"I learnt a lot during this degree so I won't even try to name everything. I will just list the languages/tools I used. Java; Python; C & C++; SQL; Assembly. "
       }
@@ -119,14 +120,20 @@
       {
         "title":"Thenjiwe Deliveries",
         "category":"An Online Shoppinp Platform for resellers wanting to buy from factories",
-        "image":"thenjiwe.png",
+        "image":"thenjiwe.jpg",
         "url":"https://thenjiwe-trading.web.app/"
       },
       {
         "title":"My Corona App",
-        "category":"A corona app that has the local, continental and global stats",
-        "image":"corona.png",
+        "category":"A corona app that has the local, continental and global stats (deployment has a bug i'm working on lol)",
+        "image":"corona.jpg",
         "url":"https://my-corona-app.web.app/"
+      },
+      {
+        "title":"",
+        "category":"I'm currently working on more projects, watch this space!",
+        "image":"more.jpg",
+        "url":""
       }
   
     ]
