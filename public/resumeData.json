@@ -60,7 +60,7 @@
         "company":"Vodacom (PTY) LTD",
         "title":"Discover Graduate Trainee - Software Engineer ",
         "years":"Feb 2019 - Present",
-        "description":"I started out in the RPA Team, working with UIPath for 3 months. I realized that the tool was not for me, and have been working with the Chatbot team and Tech Enablement team. I have been building front-end applications using Angular. I've also worked on reporting for a bit, in the form of an angular dashboard and writing SQL queries."
+        "description":"I started out in the RPA Team, working with UIPath. I then moved on to the Chatbot team and lastly the Tech Enablement team where I have been building front-end applications using Angular. I've also worked on reporting for a bit, in the form of an angular dashboard and writing SQL queries."
       },
       {
         "company":"ACI World Wide",
@@ -112,6 +112,10 @@
       {
         "name":"NoSQL (e.g. Firebase)",
         "level":"80%"
+      },
+      {
+        "name":"AGILE way of work",
+        "level":"85%"
       }
     ]
   },
