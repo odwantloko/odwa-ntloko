@@ -1,7 +1,7 @@
 {
   "main": {
-    "name":"Odwa Nolusiba Ntloko",
-    "description":"I'm a 23 year-old Software engineer, and this site tells you a biiiit more about me ... :) ",
+    "name":"Hi, I'm Odwa Nolusiba Ntloko",
+    "description":"And I'm a Software engineer. This site tells you a biiiit more about me ... :) ",
     "image":"profilepic.png",
     "bio":"I’m a software engineer who loves building mobile and web applications. I enjoy working with the full technology stack, from front to backend and everything inbetween. More especially, I enjoy seeing myself do magic with code and the reactions of the people I'm working with when they see my work. Most importantly, I'm always eager to learn new languages/frameworks.",
     "hobbies":"I'm originally from Cape Town. One of my favourite things to do in the world is going to the beach and being surrounded by water (although I can't yet swim). I also recently discovered wine-tasting, just before COVID-19 hit, so I've only done it once but I could see it becoming a hobbie given the opportunity. I enjoy hiking occassionally and love-love-love attending concerts/live performances. I also enjoy Travelling, although I haven't YET seen much of the world. Overall I’m passionate about technology and excited about the future.",
@@ -58,9 +58,15 @@
     "work":[
       {
         "company":"Vodacom (PTY) LTD",
+        "title":"Specialist: Automation & Transformation Developer",
+        "years":"Mar 2021 - Present",
+        "description":"I'm still in the same team that I was in when I initally joined Vodacom. In this role I'm a software developer who continues to work across the fullstack of web applications. I develop web applications using reactJS for their front-end and build microservices using nodeJS. I perform code reviews to ensure that the standards of our software development team are being met. I provide support for new people who join the team and help them get started in our team."
+      },
+      {
+        "company":"Vodacom (PTY) LTD",
         "title":"Discover Graduate Trainee - Software Engineer ",
-        "years":"Feb 2019 - Present",
-        "description":"I started out in the RPA Team, working with UIPath. I then moved on to the Chatbot team and lastly the Tech Enablement team where I have been building front-end applications using Angular. I've also worked on reporting for a bit, in the form of an angular dashboard and writing SQL queries."
+        "years":"Feb 2019 - Feb 2021",
+        "description":"During the program I was exposed to different parts and technologies in the business. The first part of the business I was exposed to was our RPA division where I learnt process behind automating repetive tasks for 3 months. I was then exposed to the financial services industry and developed an application which reduced the turn around time of short term insurance claims from 2 hours to 15 minutes. I spent 3 months in the financial services team. I then worked worked with the Vodacom chatbot team and supporting tribe teams for the rest of the 2 year program. I started out working on the reporting for the team building angular dashboard views for different stakeholders. I have since been building other types of internal web application tools and their backends for stakeholders within our tribe. I've also built a few of the chatbot microservices depending on the business needs. The tech stack I've been using is ReactJS, NodeJS, Oracle SQL developer, bitbucket and redhat openshift."
       },
       {
         "company":"ACI World Wide",
@@ -72,7 +78,7 @@
     "skills":[
       {
         "name":"Python",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"AngularJS",
@@ -80,11 +86,11 @@
       },
       {
         "name":"Angular2+",
-        "level":"80%"
+        "level":"87%"
       },
       {
         "name":"ReactJS",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"ReactNative",
@@ -96,7 +102,7 @@
       },
       {
         "name":"NodeJS",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Typescript",
@@ -111,11 +117,11 @@
       },
       {
         "name":"NoSQL (e.g. Firebase)",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"AGILE way of work",
-        "level":"85%"
+        "level":"100%"
       }
     ]
   },
@@ -124,8 +130,14 @@
       {
         "title":"Thenjiwe Deliveries",
         "category":"An Online Shoppinp Platform for resellers wanting to buy from factories",
-        "image":"thenjiwe.jpg",
+        "image":"thenji.jpg",
         "url":"https://thenjiwe-trading.web.app/"
+      },
+      {
+        "title":"Rise Afrika Rise",
+        "category":"A community project's website",
+        "image":"splash.jpg",
+        "url":"https://rise-afrika-rise.web.app/"
       },
       {
         "title":"My Corona App",
