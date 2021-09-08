@@ -128,22 +128,28 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Rise Afrika Rise",
+        "category":"A community project's website",
+        "image":"riseafrika.png",
+        "url":"https://rise-afrika-rise.web.app/"
+      },
+      {
+        "title":"Oval North High School",
+        "category":"A school website I was working on just before COVID-19 hit. Still waiting for images and outstanding data",
+        "image":"school.png",
+        "url":"https://oval-north-high-schoool.web.app/"
+      },
+      {
         "title":"Thenjiwe Deliveries",
         "category":"An Online Shoppinp Platform for resellers wanting to buy from factories",
         "image":"thenji.jpg",
         "url":"https://thenjiwe-trading.web.app/"
       },
       {
-        "title":"Rise Afrika Rise",
-        "category":"A community project's website",
-        "image":"splash.jpg",
-        "url":"https://rise-afrika-rise.web.app/"
-      },
-      {
-        "title":"My Corona App",
-        "category":"A corona app that has the local, continental and global stats (deployment has a bug i'm working on lol)",
-        "image":"corona.jpg",
-        "url":"https://my-corona-app.web.app/"
+        "title":"Thenjiwe Admin",
+        "category":"The admin part used by the website owner to update the thenjiwe deliveries data",
+        "image":"admin.png",
+        "url":"https://thenjiwe-admin.web.app/"
       },
       {
         "title":"",
