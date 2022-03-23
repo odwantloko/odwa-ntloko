@@ -3,15 +3,15 @@
     "name":"Hi, I'm Odwa Nolusiba Ntloko",
     "description":"And I'm a Software engineer. This site tells you a biiiit more about me ... :) ",
     "image":"profilepic.png",
-    "bio":"I’m a software engineer who loves building web and mobile applications and I aspire to be building mobile apps professionally. I enjoy working with the full technology stack, from front to backend and everything inbetween. I enjoy seeing myself do magic with code and the reactions of the people I'm working with when they see my work. Most importantly, I love solving problems and I'm always eager to learn new languages/frameworks. Overall I’m passionate about technology and excited about the future.",
-    "hobbies":"I'm originally from Cape Town. One of my favourite things to do in the world is going to the beach and being surrounded by water (although I can't yet swim). I also recently discovered wine-tasting, just before COVID-19 hit, so I've only done it twice but I could see it becoming a hobbie given the opportunity. I love-love-love attending concerts/live performances. But with concerts not really being a thing anymore, my new favourite love is horseback riding/hiking.  I enjoy attending tech meetups and being part of the bigger tech community.",
+    "bio":"I’m a software engineer who loves working with the full technology stack, from front to backend and everything inbetween. I enjoy seeing myself do magic with code and the reactions of the people I'm working with when they see my work. Most importantly, I looove solving problems and I'm always eager to learn new languages/frameworks. Overall I’m passionate about technology and excited about the future.",
+    "hobbies":"I'm born and raised in Cape Town. One of my favourite things to do in the world is going to the beach and being surrounded by water. I also enjoy visiting our local vineyards and going for wine tastings. I love-love-love attending concerts/live performances. But with concerts not really being a thing anymore, my new favourite love is horseback riding.  I enjoy attending tech meetups and being part of the bigger tech community.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ntlokodwa@gmail.com",
     "phone": "",
     "github":"https://github.com/odwantloko",
     "project":"https://github.com/odwantloko/odwa-ntloko.git",
     "address":{
-      "street":"Gauteng Area",
+      "street":"Cape Town Area",
       "city":"",
       "state":"",
       "zip": ""
@@ -43,24 +43,18 @@
   },
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"University of Cape Town",
-        "degree":"BSc Computer Science and Computer Engineering",
-        "graduated":"2015-2018",
-        "experience":"My first year at varsity was very challenging. In fact, I even had 2 \"first years\". I spent most of my 1st first year being overwhelmed by the environment, the workload and by the fact that it felt like I was the only one in my class that hadn't done any programming in high school. At some point, I even felt that maybe Tech wasn't for me and that the university had made a mistake accepting me to study Computer Science. However, towards the end of the year, the more I met people who felt the same way I did, the more 'normal' I felt, and the more I was able to overcome my anxieties and perform better in my academics. By the end of the following year, I obtained a distinction in one of my most challenging subjects and even became a tutor for it. ",
-        "e1": "\nI then joined the UCT Developer Society and the Women in Computer Science Society. Where I would meet-up with other aspiring developers and talk about the future. I also became a Computer Science Mentor to try and help first years adjust to university as smoothly as possible",
-        "e2":"Overall, I had a lot of ups and downs at university, but it was one of the best experiences and learning curves in my life.",
-        "description":"I learnt a lot during this degree so I won't even try to name everything. I will just list the languages/tools I used. Java; Python; C & C++; SQL; Assembly. "
-      }
-     
-    ],
     "work":[
+      {
+        "company":"Zulzi on Demand",
+        "title":"Intermediate Software Engineer",
+        "years":"Nov 2021 - Present",
+        "description":"In my current role, I work on Go-lang microservices and some react portals for the Checkers Sixty60 app. I deliver on my sprint targets while maintaining coding standards."
+      },
       {
         "company":"Vodacom (PTY) LTD",
         "title":"Specialist: Automation & Transformation Developer",
-        "years":"Mar 2021 - Present",
-        "description":"I'm still in the same team that I was in when I initally joined Vodacom. In this role I'm a software developer who continues to work across the fullstack of web applications. I develop web applications using reactJS for their front-end and build microservices using nodeJS. I perform code reviews to ensure that the standards of our software development team are being met. I provide support for new people who join the team and help them get started in our team."
+        "years":"Mar 2021 - Oct 2021",
+        "description":"In this role I was a software developer who continues to work across the fullstack of web applications. I develop web applications using reactJS for their front-end and build microservices using nodeJS. I perform code reviews to ensure that the standards of our software development team are being met. I provide support for new people who join the team and help them get started in our team."
       },
       {
         "company":"Vodacom (PTY) LTD",
@@ -75,49 +69,62 @@
         "description":"I had to create a Django CRUD application from start to finish (Fullstack). I started by designing the database structure for how the data would be stored. The data was in the form of a CSV and an Excel file which was related to eachother. I then created python scripts to merge the 2 data sources into a single data-structure and then wrote the data to the database structure I designed in the beginning. This was a Microsoft SQL server database. A user was then able to Create, Read, Update and Delete the data through the web-interface. The REST methods were defined within the Django part of the project."
       }
     ],
+    "education":[
+      {
+        "school":"University of Cape Town",
+        "degree":"BSc Computer Science and Computer Engineering",
+        "graduated":"2015-2018",
+        "experience":"My first year at varsity was very challenging. In fact, I even had 2 \"first years\". I spent most of my 1st first year being overwhelmed by the environment, the workload and by the fact that it felt like I was the only one in my class that hadn't done any programming in high school. At some point, I even felt that maybe Tech wasn't for me and that the university had made a mistake accepting me to study Computer Science. However, towards the end of the year, the more I met people who felt the same way I did, the more 'normal' I felt, and the more I was able to overcome my anxieties and perform better in my academics. By the end of the following year, I obtained a distinction in one of my most challenging subjects and even became a tutor for it. ",
+        "e1": "\nI then joined the UCT Developer Society and the Women in Computer Science Society. Where I would meet-up with other aspiring developers and talk about the future. I also became a Computer Science Mentor to try and help first years adjust to university as smoothly as possible",
+        "e2":"Overall, I had a lot of ups and downs at university, but it was one of the best experiences and learning curves in my life.",
+        "description":"I learnt a lot during this degree so I won't even try to name everything. The languages/tools I used include Java; Python; C & C++; SQL; Assembly. I also did a Machine Learning module."
+      }
+
+    ],
     "skills":[
       {
-        "name":"Python",
-        "level":"80%"
+        "name":"Java",
+        "level":"83%"
       },
       {
-        "name":"AngularJS",
-        "level":"80%"
-      },
-      {
-        "name":"Angular2+",
-        "level":"87%"
-      },
-      {
-        "name":"ReactJS",
-        "level":"90%"
-      },
-      {
-        "name":"ReactNative",
-        "level":"55%"
+        "name":"Golang",
+        "level":"75%"
       },
       {
         "name":"Javascript",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"NodeJS",
-        "level":"90%"
+        "level":"85%"
       },
       {
         "name":"Typescript",
         "level":"85%"
       },
       {
-        "name":"Java",
+        "name":"Python",
         "level":"80%"
-      },{
+      },
+      {
+        "name":"Angular",
+        "level":"87%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"87%"
+      },
+      {
+        "name":"ReactNative",
+        "level":"55%"
+      },
+      {
         "name":"SQL",
         "level":"80%"
       },
       {
-        "name":"NoSQL (e.g. Firebase)",
-        "level":"85%"
+        "name":"NoSQL (e.g. Firebase & MongoDB)",
+        "level":"95%"
       },
       {
         "name":"AGILE way of work",
